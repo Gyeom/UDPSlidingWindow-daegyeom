@@ -13,4 +13,4 @@ UDP를 사용하여 파일을 전송하기위한 클라이언트 및 서버 프�
 서버 프로그램에서 포트 이름을 인수(argument)로 지정할 수 있습니다.
 
 
-by KimDaeGyeom, YoonHyeonWoo, SeoYongJae
+by KimDaeGyeom, YoonHyunWoo, SeoYongJae
